@@ -52,58 +52,6 @@ module.exports = {
           { text: 'Project Demo', link: '/PJwrapper/GuiderLink/' },
         ],
         sidebar: {
-          '/Algorithms/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                'JZoffer',
-              ]
-            }
-          ],
-          '/Leetcode/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-              ]
-            }
-          ],
-          '/Redis/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01DataType',
-                '02Persistence',
-                '03Transaction',
-                '04PublishSubscribe',
-                '05MasterSlave',
-                '06Springboot-redis',
-                '07Spring-Redis-Cache',
-                '08Springboot-Jedis'
-
-              ]
-            }
-          ],
-          '/Nginx/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01Orders',
-              ]
-            }
-          ],
-          '/Node/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01'
-              ]
-            }
-          ],
           '/Diary/': [
             {
               collapsable: false,
@@ -136,17 +84,6 @@ module.exports = {
               ]
             }
           ],
-          '/React/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                'redux',
-                'yiki',
-                'diff'
-              ]
-            }
-          ],
           '/mini-program/': [
             {
               collapsable: false,
@@ -155,91 +92,6 @@ module.exports = {
                 'base',
                 'advance',
                 'yiki'
-              ]
-            }
-          ],
-          '/SpringBoot/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01SpringSecurity',
-                '02JWT'
-              ]
-            }
-          ],
-          '/Mysql/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01',
-                '02',
-                '03',
-                '04',
-                '05'
-              ]
-            }
-          ],
-          '/JavaScript/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                'TheDefinitiveGuide',
-                'ProfessionalForJS',
-              ]
-            }
-          ],
-          '/ECMAScript/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01',
-                '02',
-                '03',
-                '04',
-                '06',
-                '05'
-              ]
-            }
-          ],
-          '/Webpack/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01',
-                '02',
-                'ad_00',
-                'ad_01',
-                'ad_02',
-                'ad_03',
-                '03',
-                '10_compiler',
-                '11_compilation',
-                '04_loader',
-                '06_plugin',
-                '07_tapable',
-                '05_bundle',
-                '09_tree_shaking',
-              ]
-            }
-          ],
-          '/Angular/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-              ]
-            }
-          ],
-          '/Rxjs/': [
-            {
-              collapsable: false,
-              children: [
-                '',
               ]
             }
           ],
@@ -280,39 +132,6 @@ module.exports = {
               ]
             }
           ],
-          '/TypeScript/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01',
-                '02',
-                '03',
-                '04',
-                '05',
-                '06'
-              ]
-            }
-          ],
-          '/csapp/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01_InformationStorage'
-              ]
-            }
-          ],
-          '/RegExp/': [
-            {
-              collapsable: false,
-              children: [
-                '',
-                '01',
-                '02'
-              ]
-            }
-          ]
         }
       }
     }
